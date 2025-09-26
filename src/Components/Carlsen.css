@@ -1,0 +1,8 @@
+.CarlsenApp{
+    background-image:url('../Components/chess.jpg');
+    background-size:cover;
+    background-position: center;
+     background-repeat: no-repeat;
+       position: relative;
+         z-index: 1;
+}
